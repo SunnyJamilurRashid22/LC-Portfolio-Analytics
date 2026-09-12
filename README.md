@@ -69,17 +69,11 @@ The Power BI dashboard provides an interactive view of:
 
 ## Project Structure
 
-```text
-LC_Portfolio_Analytics/
-├── data/
-│   └── Export_Bill_Portfolio_Anonymized.xlsx
-├── scripts/
-│   └── LC_Portfolio_Analytics.py
-├── powerbi/
-│   └── LC_Portfolio_Analytics.pbix
-├── images/
-│   └── dashboard_overview.png
-└── README.md
+- `data/` — anonymized export bill dataset
+- `scripts/` — Python portfolio analysis
+- `powerbi/` — interactive Power BI dashboard
+- `images/` — dashboard screenshots
+- `README.md` — project documentation
 
 ## Confidentiality
 
